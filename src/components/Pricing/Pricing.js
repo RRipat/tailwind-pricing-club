@@ -3,7 +3,7 @@ import PricingOption from '../PricingOption/PricingOption';
 
 const Pricing = () => {
     const pricingOptions = [
-        {id:1, name: 'fre e', price:0, benefits:[
+        {id:1, name: 'free', price:0, benefits:[
             'lifetime free',
             'unlimited deals',
             'localaized deals',
